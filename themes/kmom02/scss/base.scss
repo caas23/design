@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+    border: 0 none;
+    margin: 0;
+    padding: 0;
+    color: $font-color;
+}
+
+.hidden {
+    display: none !important;
+}
+
+html {
+    height: 100%;
+}
+
+@import 'nav';
+@import 'header';
+@import 'body';
+@import 'main';
+@import 'footer';

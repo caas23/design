@@ -1,0 +1,29 @@
+.me-img {
+    border: 3px solid $border-color;
+    margin-top: 1em;
+    max-width: 250px;
+}
+
+div .logo {
+    padding: 2em 4em 1em;
+}
+ 
+img {
+    max-width: 150px;
+}
+
+.social {
+    a {
+        text-decoration: none;
+    }
+
+    i {
+        color: $icon-color;
+    }
+    
+    i:hover {
+        color: $hover;
+    }
+}
+
+

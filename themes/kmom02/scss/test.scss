@@ -1,0 +1,84 @@
+/* test.md */
+
+@mixin testKmom01 ($font-color: #f5f5f5) {
+    color: $font-color;
+    height: 100px;
+    box-sizing: content-box;
+}
+
+/* Box1: Ett element med 600px bredd, 100px höjd.
+Svart bakgrundsfärg; content-box. */
+.box1 {
+    //color: whitesmoke;
+    //height: 100px;
+    //box-sizing: content-box;
+    width: 600px;
+    background-color: #000;
+    @include testKmom01;
+}
+
+/* Box2: Ett element med 100% bredd, 100px höjd.
+Blå bakgrundsfärg; content-box. */
+.box2 {
+    //color: whitesmoke;
+    //height: 100px;
+    //box-sizing: content-box;
+    width: 100%;
+    background-color: #00f;
+    @include testKmom01;
+}
+
+/* Box3: Ett element med 50% av viewportens bredd, 100px höjd.
+Röd bakgrundsfärg; border-box. */
+.box3 {
+    //color: whitesmoke;
+    //height: 100px;
+    width: 50vw;
+    background-color: #f00;
+    box-sizing: border-box;
+    @include testKmom01;
+}
+
+/* Box4: Ett element som fyller hela bredden bredd, 100px höjd.
+Grön bakgrundsfärg. */
+.box4 {
+    //color: whitesmoke;
+    //height: 100px;
+    width: 100vmax;
+    background-color: #008000;
+    box-sizing: none;
+    @include testKmom01;
+}
+
+.old-fashioned {
+    background-color: #ebe6bd;
+    font-family: 'Courier New', Courier, monospace;
+    letter-spacing: -0.8px;
+    width: 50vw;
+
+}
+
+.modern {
+    background-color: #fff;
+    font-size: 1.2em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    line-height: 1.2; /* 1.2-1.5 good (1.15 standard) */
+    width: 50vw;
+    margin-bottom: 1.44rem; /* font-size * line-height */
+    //margin: 1.44rem auto;
+    color: #333; /* Dark grey better than black */
+    letter-spacing: 0; /* 0 is 'normal' spacing. */
+
+}
+
+.worst-ever {
+    background-color: #f54ade;
+    font-size: 1em;
+    font-family: cursive;
+    line-height: 2.2;
+    width: 50vw;
+    //margin-bottom: 1.44rem;
+    //margin: 1.44rem auto;
+    color: #0ff;
+    letter-spacing: -2.2px;
+}

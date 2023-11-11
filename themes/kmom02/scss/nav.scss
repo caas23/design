@@ -1,0 +1,25 @@
+.nav {
+    padding: 1em 278px 0 0;
+    
+    li {
+        background-color: $nav-inactive;
+    }
+
+    a {
+        font-size: 1.2rem;
+        text-decoration: none;
+    }
+
+    li:hover {
+        background-color: $hover;
+    }
+
+    .active,
+    .active:hover {
+        background-color: $nav-active;
+    }
+    
+    .active a {
+        color: $font-alternative-color;
+    }
+}
