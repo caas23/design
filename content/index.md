@@ -6,12 +6,8 @@ Description: This is my index page.
 Home
 ==========================
 
-Välkommen till min sida för designkursen!
+My name is Calle, I am 26 years old and I'm studying Web Programming at **BTH**. I also work as an online tutor, where I teach Swedish as a foreign language. In my spare time, I like to play football as well as the piano. I also enjoy spending time with my little family, which consists of my partner Emmy and our cats Harald and Märta.
 
-Jag heter Calle, är 26 år och studerar Webbprogrammering vid BTH. Jag arbetar även som svensklärare online, där jag undervisar svenska som främmande språk. På fritiden tycker jag om att spela fotboll och piano och umgås med min lilla familj, som består av sambon Emmy och katterna Harald och Märta.
-
-Jag ser fram emot en lärorik kurs!
-
-![meCalle](%assets_url%/img/meCalle.jpg){.meImg}
+![meCalle](%assets_url%/img/meCalle.jpg){.me-img}
 
 _Calle Andersson_
