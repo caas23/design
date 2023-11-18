@@ -1,6 +1,11 @@
 .nav {
-    padding: 1em 278px 0 0;
-    
+    //padding-right: 278px;
+    grid-row: 1;
+
+    [role=navigation] {
+        grid-column: 2;
+    }
+
     li {
         background-color: $nav-inactive;
     }
