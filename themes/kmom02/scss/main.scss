@@ -1,6 +1,10 @@
 .main {
-    flex: 1 0 auto;
-    margin-left: 278px;
-    margin-right: 278px;
-    text-align: justify;
+    display: grid;
+    grid-template-columns: 1fr 6fr 1fr;
+    gap: 0 2rem;
+    height: 100%;
+}
+
+.content {
+    grid-column: 2;
 }
