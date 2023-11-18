@@ -1,0 +1,142 @@
+.landingpage {
+    display: grid;
+    gap: 1em;
+    grid-column: 2;
+    margin-bottom: 2rem;
+}
+
+.landingpage h1{
+    grid-column: span 3;
+}
+
+.box {
+    border: 1px solid #ccc;
+    text-align: center;
+    border-radius: 15px;
+    background-color: $nav-inactive;
+    padding: 1.5rem;
+
+    h2 {
+        padding: 1rem;
+    }
+
+    a {
+        text-decoration: none;
+    }
+
+    &:hover {
+        background-color: $hover;
+    }
+}
+
+.css {
+    grid-column: 1;
+    grid-row: 2;
+}
+
+.html {
+    grid-column: 2 / span 2;
+    grid-row: 2;
+}
+
+.javascript {
+    grid-column: 1 / span 2;
+    grid-row: 3;
+}
+
+.php {
+    grid-column: 3;
+    grid-row: 3;
+}
+
+.python {
+    grid-column: span 3;
+    grid-row: 4;
+}
+
+.git {
+    grid-column: 1;
+    grid-row: 5;
+}
+
+.sqlite {
+    grid-column: 2 / span 2;
+    grid-row: 5;
+}
+
+.single-technology {
+    display: grid;
+    gap: 2rem;
+    grid-column: 2;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    background-color: $background-alternative-color;
+    padding: 0 1rem 1rem;
+    margin-bottom: 4rem;
+}
+
+.tech-menu {
+    grid-column: 1;
+    display: grid;
+    gap: 0.8rem;
+    
+    .tech-active {
+        background-color: $nav-active;
+    }
+
+    .tech-active :hover {
+        background-color: $nav-active;
+    }
+    
+    .tech-active h4 {
+        color: $font-alternative-color;
+    }
+
+    a {
+        text-decoration: none;
+        text-align: center;
+    }
+
+    a:hover {
+        background-color: $hover;
+    }
+    
+    h2 {
+        margin-top: 1.1em;
+    }
+
+    .css {
+        grid-row: 2;
+    }
+    
+    .html {
+        grid-row: 3;
+    }
+    
+    .javascript {
+        grid-row: 4;
+    }
+    
+    .php {
+        grid-row: 5;
+    }
+    
+    .python {
+        grid-row: 6;
+    }
+    
+    .git {
+        grid-row: 7;
+    }
+    
+    .sqlite {
+        grid-row: 8;
+    }
+}
+
+.tech-content {
+    grid-column: 2;
+    overflow-x: auto;
+    overflow-y: hidden;
+}
