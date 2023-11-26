@@ -1,0 +1,222 @@
+.landingpage {
+    display: grid;
+    gap: 1em;
+    grid-column: 2;
+    margin-bottom: 2rem;
+}
+
+.landingpage h1 {
+    grid-column: span 3;
+}
+
+.box {
+    border: 1px solid $border-alternative-color;
+    text-align: center;
+    border-radius: 15px;
+    background-color: $background-alternative-color;
+    padding: 1.5rem;
+
+    h2 {
+        padding: 1rem;
+    }
+
+    a {
+        text-decoration: none;
+    }
+
+    &:hover {
+        background-color: $hover;
+    }
+}
+
+.colors {
+    grid-column: 1;
+    grid-row: 2;
+}
+
+.load {
+    grid-column: 2 / span 2;
+    grid-row: 2;
+}
+
+.principles {
+    grid-column: span 3;
+    grid-row: 3;
+}
+
+.analysis-content {
+    display: grid;
+    gap: 2rem;
+    grid-column: 2;
+    background-color: $background-alternative-color;
+    padding: 1rem 6rem;
+    margin-bottom: 4rem;
+
+    a:hover {
+        color: $nav-active;
+        text-decoration: none;
+        font-weight: bold;
+    }
+
+    .zwift-img,
+    .zwift-img-alt,
+    .sl-img,
+    .strava-img {
+        max-width: 100%;
+    }
+}
+
+.palette {
+    border-spacing: 4px;
+    border-collapse: separate;
+
+    td {
+        height: 50px;
+        width: 50px;
+        border: 1px solid $border-alternative-color;
+    }
+}
+
+.zwift-color1 {
+    background-color: #141518;
+}
+
+.zwift-color2 {
+    background-color: #212529;
+}
+
+.zwift-color3 {
+    background-color: #0093D1;
+}
+
+.zwift-color4 {
+    background-color: #FB6418;
+}
+
+.zwift-color5 {
+    background-color: #000000;
+}
+
+.zwift-color6 {
+    background-color: #767676;
+}
+
+.zwift-color7 {
+    background-color: #F6F6F6;
+}
+
+.zwift-color8 {
+    background-color: #F8F8FA;
+}
+
+.zwift-color9 {
+    background-color: #FFFFFF;
+}
+
+.sl-color1 {
+    background-color: #B72126;
+}
+
+.sl-color2 {
+    background-color: #123456;
+}
+
+.sl-color3 {
+    background-color: #5F7D9C;
+}
+
+.sl-color4 {
+    background-color: #20A64C;
+}
+
+.sl-color5 {
+    background-color: #000000;
+}
+
+.sl-color6 {
+    background-color: #141414;
+}
+
+.sl-color7 {
+    background-color: #222222;
+}
+
+.sl-color8 {
+    background-color: #3A3A3A;
+}
+
+.sl-color9 {
+    background-color: #454545;
+}
+
+.sl-color10 {
+    background-color: #595959;
+}
+
+.sl-color11 {
+    background-color: #666666;
+}
+
+.sl-color12 {
+    background-color: #DFDFDF;
+}
+
+.sl-color13 {
+    background-color: #E0E0E0;
+}
+
+.sl-color14 {
+    background-color: #E2E2E2;
+}
+
+.sl-color15 {
+    background-color: #EFEFEF;
+}
+
+.sl-color16 {
+    background-color: #FFFFFF;
+}
+
+.strava-color1 {
+    background-color: #242428;
+}
+
+.strava-color2 {
+    background-color: #6D6D78;
+}
+
+.strava-color3 {
+    background-color: #F3F2ED;
+}
+
+.strava-color4 {
+    background-color: #F9F8F5;
+}
+
+.strava-color5 {
+    background-color: #D3D1CD;
+}
+
+.strava-color6 {
+    background-color: #FC5200;
+}
+
+.strava-color7 {
+    background-color: #FED4BF;
+}
+
+.strava-color8 {
+    background-color: #000000;
+}
+
+.strava-color9 {
+    background-color: #2B2B2B;
+}
+
+.strava-color10 {
+    background-color: #525252;
+}
+
+.strava-color11 {
+    background-color: #FFFFFF;
+}
