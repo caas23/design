@@ -10,10 +10,10 @@
 }
 
 .box {
-    border: 1px solid #ccc;
+    border: 1px solid $border-alternative-color;
     text-align: center;
     border-radius: 15px;
-    background-color: $nav-inactive;
+    background-color: $background-alternative-color;
     padding: 1.5rem;
 
     h2 {
