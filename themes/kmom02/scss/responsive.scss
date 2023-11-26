@@ -4,6 +4,14 @@
         max-width: 125px;
         padding-top: 1em;
     }
+
+    .me-img,
+    .zwift-img,
+    .zwift-img-alt,
+    .sl-img,
+    .strava-img {
+        padding-top: 0;
+    }
 }
 
 @media (max-width: 1062px) {
@@ -11,6 +19,9 @@
     .nav,
     .main {
         grid-template-columns: 1fr 3.5fr 1fr;
+    }
+    .analysis-content {
+        padding: 1rem 3rem;
     }
 }
 
@@ -130,6 +141,26 @@
 
     .tech-menu {
         display: none;
+    }
+
+    .colors {
+        grid-column: 1;
+        grid-row: 2;
+    }
+    
+    .load {
+        grid-column: 1;
+        grid-row: 3;
+    }
+    
+    .principles {
+        grid-column: 1;
+        grid-row: 4;
+    }
+
+    .analysis-content {
+        padding: 1rem;
+        gap: 1rem;
     }
 
 }
