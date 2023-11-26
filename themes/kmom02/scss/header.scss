@@ -9,8 +9,6 @@
     gap: 0 2rem;
     grid-template-columns: 1fr 6fr 1fr;
     grid-template-rows: 1fr;
-    //grid-template-rows: 3em;
-    //justify-content: space-between;
 }
 
 
@@ -24,7 +22,7 @@
 
 .title {
     * {
-        color: #111;
+        color: $title-font;
         text-decoration: none;
     }
 
