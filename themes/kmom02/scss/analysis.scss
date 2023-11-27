@@ -48,7 +48,8 @@
     display: grid;
     gap: 2rem;
     grid-column: 2;
-    background-color: $background-alternative-color;
+    background-color: $background-color;
+    border: 3px solid $border-color;
     padding: 1rem 6rem;
     margin-bottom: 4rem;
 
@@ -94,7 +95,7 @@
 }
 
 .zwift-color5 {
-    background-color: #000000;
+    background-color: #000;
 }
 
 .zwift-color6 {
@@ -110,7 +111,7 @@
 }
 
 .zwift-color9 {
-    background-color: #FFFFFF;
+    background-color: #FFF;
 }
 
 .sl-color1 {
@@ -130,7 +131,7 @@
 }
 
 .sl-color5 {
-    background-color: #000000;
+    background-color: #000;
 }
 
 .sl-color6 {
@@ -138,7 +139,7 @@
 }
 
 .sl-color7 {
-    background-color: #222222;
+    background-color: #222;
 }
 
 .sl-color8 {
@@ -154,7 +155,7 @@
 }
 
 .sl-color11 {
-    background-color: #666666;
+    background-color: #666;
 }
 
 .sl-color12 {
@@ -174,7 +175,7 @@
 }
 
 .sl-color16 {
-    background-color: #FFFFFF;
+    background-color: #FFF;
 }
 
 .strava-color1 {
@@ -206,7 +207,7 @@
 }
 
 .strava-color8 {
-    background-color: #000000;
+    background-color: #000;
 }
 
 .strava-color9 {
@@ -218,5 +219,5 @@
 }
 
 .strava-color11 {
-    background-color: #FFFFFF;
+    background-color: #FFF;
 }
