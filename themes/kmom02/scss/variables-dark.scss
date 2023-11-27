@@ -1,26 +1,31 @@
-/* Fonts: 'Playfair Display 400' and 'Lato 700' */
-//@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&family=Playfair+Display&display=swap');
-
 /* Fonts: 'Noto Serif 400' and 'Noto Sans 700' */
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@700&family=Noto+Serif&display=swap');
 
-$title-font: #111;
-$font-color: #333;
-$font-alternative-color: #fff;
-$accent-color: #ee6c4d;
-$background-color: #fff;
-$background-alternative-color: #f5f5f5;
+$title-font: #8CA1A8;
+$font-color: #8CA1A8; //ok
+$font-alternative-color: #333;
+$background-color: #263B42; //ok
+$background-alternative-color: #8CA1A8;
 
-$nav-active: #699c17;
-$nav-inactive: #f5f5f5;
-$hover: #d3d3d3;
+$nav-active: #5A6F75; //ok
+$nav-inactive: #8CA1A8; //ok
+$hover: #8AC7DB; //ok
 
-$border-color: #333;
+$footer-background: #132B33; //ok
+
+$border-color: #132B33; //ok
 $border-alternative-color: #ccc;
-$icon-color: #699c17;
-
-//$header-font: 'Lato', sans-serif;
-//$main-font: 'Playfair Display', serif;
+$icon-color: #5A6F75;
+$code-color: #111;
+$menu-color: #263B42;
 
 $header-font: 'Noto Sans', sans-serif;
 $main-font: 'Noto Serif', serif;
+
+/* Monochromatic scheme
+#8CA1A8
+#5A6F75
+#8AC7DB
+#263B42
+#132B33
+*/
