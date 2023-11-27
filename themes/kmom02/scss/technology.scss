@@ -18,6 +18,11 @@
 
     h2 {
         padding: 1rem;
+        color: $menu-color;
+    }
+
+    h2:hover {
+        color: $font-alternative-color;
     }
 
     a {
@@ -71,7 +76,8 @@
     flex-direction: row;
     justify-content: space-between;
     align-items: flex-start;
-    background-color: $background-alternative-color;
+    background-color: $background-color;
+    border: 3px solid $border-color;
     padding: 0 1rem 1rem;
     margin-bottom: 4rem;
 }
@@ -80,6 +86,10 @@
     grid-column: 1;
     display: grid;
     gap: 0.8rem;
+
+    h4:hover {
+        color: $font-alternative-color;
+    }
     
     .tech-active {
         background-color: $nav-active;
