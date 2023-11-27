@@ -12,6 +12,7 @@
     a {
         font-size: 1.2rem;
         text-decoration: none;
+        color: $font-alternative-color;
     }
 
     li:hover {
@@ -21,9 +22,5 @@
     .active,
     .active:hover {
         background-color: $nav-active;
-    }
-    
-    .active a {
-        color: $font-alternative-color;
     }
 }
