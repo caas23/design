@@ -59,7 +59,7 @@ The colors picked up by [ColorZilla](https://www.colorzilla.com/) are as follows
     </tr>
 </table>
 
-In this palette, it can be seen that the main colors are a pacific blue nuance, as well as a orange color. The other colors used are of white, grey and black shades, and are therefore not considered actual colors (for the purposes of this analysis). 
+In this palette, it can be seen that the main colors are a pacific blue nuance, as well as an orange color. The other colors used are of white, grey and black shades, and are therefore not considered actual colors (for the purposes of this analysis). 
 Based on the blue and orange color, it is likely that the website is using a split complemenatary color scheme, or perhaps even a double split complemenatary scheme, if we consider the alternating pink image at the top.
 Looking at the website, there are also a few different shades of blue involved, although most of these are embedded in the images on the website.
 
@@ -150,7 +150,7 @@ The colors picked up by [ColorZilla](https://www.colorzilla.com/) are as follows
 In this palette you can see that the main colors are two different shades of red orange. The other colors used are of white, grey and black shades, and are therefore not considered actual colors (for the purposes of this analysis). 
 Based on the stronger red orange color, as well as the lighter shade of it, it is likely that the website is using a monochromatic color scheme, where the lighter shade of red orange is simply a lighter shade of the darker one. Possibly, it could be an analogous color scheme, but the lighter shade falls a bit outside that scheme.
 
-It appears this websites also uses pretty much the same font-family through out the whole site, regardless of the type of text. These fonts are used within the font family:  
+It appears this websites also uses pretty much the same font family through out the whole site, regardless of the type of text. These fonts are used within the font family:  
 _MaisonNeue  
 Segoe UI   
 Helvetica Neue   
