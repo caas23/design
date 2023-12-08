@@ -10,7 +10,7 @@ div .logo {
     filter: grayscale(1)
 }
  
-img {
+.logo img {
     max-width: 150px;
 }
 
@@ -28,4 +28,11 @@ img {
     }
 }
 
+.load-img {
+    max-width: 100%;
+}
 
+.excelResults {
+    width: 100%;
+    height: 450px;
+}
