@@ -164,6 +164,15 @@
         gap: 1rem;
     }
 
+    .gallery-grid {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 2rem 0;
+    }
+
+    .gallery-grid a {
+        margin: 0 auto;
+    }
 }
 
 @media (max-width: 582px) {
@@ -196,6 +205,10 @@
     
     .js .nav-toggle {
         padding: 1rem 2.5em 0 0;
+    }
+
+    .gallery-img {
+        width: 300px;
     }
 }
 
