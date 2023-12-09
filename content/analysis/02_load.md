@@ -45,7 +45,7 @@ Results
 
 The results from the analysis can be seen in the table below.
  
-<iframe width="402" height="346" frameborder="0" scrolling="no" class="excelResults" src="https://studentbth-my.sharepoint.com/personal/caas23_student_bth_se/_layouts/15/Doc.aspx?sourcedoc={49856f33-7782-4760-a441-be84ef48197b}&action=embedview&wdAllowInteractivity=False&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True"></iframe>
+<iframe width="402" height="346" frameborder="0" scrolling="no" class="excel-results" src="https://studentbth-my.sharepoint.com/personal/caas23_student_bth_se/_layouts/15/Doc.aspx?sourcedoc={49856f33-7782-4760-a441-be84ef48197b}&action=embedview&wdAllowInteractivity=False&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True"></iframe>
 _Table 1. Analysis results._
 
 Analysis
