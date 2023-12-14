@@ -7,12 +7,14 @@
     margin-top: auto;
 
     /* created using css-generator.com */
+    /* stylelint-disable property-no-vendor-prefix */
     --mask:
     radial-gradient(55.90px at 50% 75.00px,#000 99%,#0000 101%) calc(50% - 50px) 0/100px 100%,
     radial-gradient(55.90px at 50% -50px,#0000 99%,#000 101%) 50% 25px/100px 100% repeat-x;
     -webkit-mask: var(--mask);
-            mask: var(--mask);
-    
+    mask: var(--mask);
+    /* stylelint-enable property-no-vendor-prefix */
+
     .social {
         font-size: 1.7rem;
     }
