@@ -2,10 +2,16 @@
     flex: 0 0 auto;
     display: flex;
     justify-content: space-between;
-    border-top: 3px solid $border-color;
-    padding: 2rem 3.5rem;
+    padding: 4rem 5rem 2rem;
     background-color: $footer-background;
     margin-top: auto;
+
+    /* created using css-generator.com */
+    --mask:
+    radial-gradient(55.90px at 50% 75.00px,#000 99%,#0000 101%) calc(50% - 50px) 0/100px 100%,
+    radial-gradient(55.90px at 50% -50px,#0000 99%,#000 101%) 50% 25px/100px 100% repeat-x;
+    -webkit-mask: var(--mask);
+            mask: var(--mask);
     
     .social {
         font-size: 1.7rem;

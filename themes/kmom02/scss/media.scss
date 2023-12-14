@@ -1,7 +1,8 @@
 .me-img {
-    border: 3px solid $border-color;
-    margin-top: 1em;
-    max-width: 250px;
+    box-shadow: 5px 5px 5px $border-color;
+    max-width: 200px;
+    float: left;
+    margin-right: 1.5rem;
 }
 
 div .logo {
@@ -26,10 +27,6 @@ div .logo {
     i:hover {
         color: $hover;
     }
-}
-
-.load-img {
-    max-width: 100%;
 }
 
 .excel-results {

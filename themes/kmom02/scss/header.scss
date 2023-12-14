@@ -11,6 +11,10 @@
     grid-template-rows: 1fr;
 }
 
+.site-header {
+    border-bottom: 10px  $border-color;
+}
+
 
 .title {
     grid-column: 2;
