@@ -34,12 +34,12 @@ Results
 
 ### Zwift
 
-[![zwiftImg](%assets_url%/img/zwiftpage.png){.zwift-img}](%assets_url%/img/zwiftfullpage.png)
+[![zwiftImg](%assets_url%/img/zwiftpage.png){.analysis-img}](%assets_url%/img/zwiftfullpage.png)
 _Zwift front page, divided into three. Click on the image to view the original snapshot._
 
 Above is a snapshot of the entire front page of the website. However, the first image on the page is in motion, alternating between a more orange toned image, a more pink toned image, and an image with more green, blue and graey tones. The latter two can be seen below.
 
-![zwift2Img](%assets_url%/img/zwiftalternative.png){.zwift-img-alt}
+![zwift2Img](%assets_url%/img/zwiftalternative.png){.analysis-img-alt}
 _Alternative images on front page._
 
 **Color palette**
@@ -70,7 +70,7 @@ The site as a whole gives off an impression of energy and joy, which I think is 
 
 ### Styrkelabbet
 
-[![slImg](%assets_url%/img/slpage.png){.sl-img}](%assets_url%/img/slfullpage.png)
+[![slImg](%assets_url%/img/slpage.png){.analysis-img}](%assets_url%/img/slfullpage.png)
 _Strykelabbet front page, divided into three. Click on the image to view the original snapshot._
 
 Above is a snapshot of the entire front page of the website. At first glance, you can see that the only color that really stand out (apart from those embedded in images) is a shade of red.
@@ -122,7 +122,7 @@ The site as a whole gives a fairly simple and calm impression, there is nothing 
 
 ### Strava
 
-[![stravaImg](%assets_url%/img/stravapage.png){.strava-img}](%assets_url%/img/stravafullpage.png)
+[![stravaImg](%assets_url%/img/stravapage.png){.analysis-img}](%assets_url%/img/stravafullpage.png)
 _Strava front page, divided into two. Click on the image to view the original snapshot._
 
 Above is a snapshot of the entire front page of the website. At first glance, you can see that the only color that really stand out is a shade of orange.

@@ -19,19 +19,19 @@ The web sites I have chosen all fall under the same category - music. I have cho
 #### Roland
 _Manufacturer of musical instruments and softwares._
 
-[![RolandImg](%assets_url%/img/Roland_snapshot.png){.load-img}](https://www.roland.com/)
+[![RolandImg](%assets_url%/img/Roland_snapshot.png){.analysis-img}](https://www.roland.com/)
 _Roland front page, top section. Click on the image to visit the site._
 
 #### Steinberg
 _Manufacturer of musical softwares and hardwares._
 
-[![SteinbergImg](%assets_url%/img/Steinberg_snapshot.png){.load-img}](https://www.steinberg.net/) 
+[![SteinbergImg](%assets_url%/img/Steinberg_snapshot.png){.analysis-img}](https://www.steinberg.net/) 
 _Steinberg front page, top section. Click on the image to visit the site._
 
 #### Zoom
 _Manufacturer of electronic devices for music. Not to be confused with the communication platform with the same name._
 
-[![ZoomImg](%assets_url%/img/Zoom_snapshot.png){.load-img}](https://zoomcorp.com/)
+[![ZoomImg](%assets_url%/img/Zoom_snapshot.png){.analysis-img}](https://zoomcorp.com/)
 _Zoom front page, top section. Click on the image to visit the site._
 
 Method
