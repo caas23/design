@@ -87,6 +87,6 @@ _Pro tip: The gallery looks even nicer in dark mode!_
 _Here's an amazing piece by Ludovico Einaudi, it gives you goosebumps, doesn't it?_
 
 <div class="embed-container">
-    <iframe src="https://www.youtube.com/embed/caxZFKKcyGU" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/caxZFKKcyGU" frameborder="0" title="Ludovico Einaudi - Four dimensions" allowfullscreen></iframe>
 </div>
 
