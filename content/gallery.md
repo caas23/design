@@ -6,7 +6,7 @@ Description: Gallery page.
 Gallery
 ==========================
 
-<!-- Photos from https://unsplash.com/s/photos/forrest -->
+<!-- Photos from https://unsplash.com/s/photos/forest -->
 
 _Pro tip: The gallery looks even nicer in dark mode!_
 
